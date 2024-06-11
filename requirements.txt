@@ -1,0 +1,5 @@
+requests
+colorama
+keyboard
+validate_docbr
+tabulate

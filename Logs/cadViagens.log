@@ -1,0 +1,105 @@
+--------------------------------------------------
+ID: 123
+Aeronave: barbatana
+Piloto: erek
+Destino: SP
+Origem: MG
+Data: 20/02/2004
+Hora: 13:24
+Classe Executiva: 9.0
+Classe Econômica: 18.0
+Primeira Classe: 18.0
+Valor Executiva: 153.5
+Valor Econômica: 132.2
+Valor Primeira: 1123.2
+--------------------------------------------------
+--------------------------------------------------
+ID: 123
+Aeronave: barbatana
+Piloto: erek
+Destino: 1123
+Origem: 1323
+Data: 1232131
+Hora: 312
+Classe Executiva: 9.0
+Classe Econômica: 18.0
+Primeira Classe: 18.0
+Valor Executiva: 12.0
+Valor Econômica: 321.0
+Valor Primeira: 312.0
+--------------------------------------------------
+--------------------------------------------------
+ID: 123
+Aeronave: BARBATANA
+Piloto: Erek
+Destino: MG
+Origem: SP
+Data: 25022004
+Hora: 12:24
+Classe Executiva: 20
+Classe Econômica: 10
+Primeira Classe: 15
+Valor Executiva: 22.0
+Valor Econômica: 232.0
+Valor Primeira: 32323.0
+--------------------------------------------------
+--------------------------------------------------
+ID: 1
+Aeronave: BARBATANA
+Piloto: Erek
+Destino: SP
+Origem: MG
+Data: 25022004
+Hora: 13:24
+Classe Executiva: 15
+Classe Econômica: 20
+Primeira Classe: 10
+Valor Executiva: 123.0
+Valor Econômica: 70.0
+Valor Primeira: 1320.0
+--------------------------------------------------
+--------------------------------------------------
+ID: 1
+Aeronave: BARBATANA
+Piloto: Erek
+Destino: MG
+Origem: SP
+Data: 25022004
+Hora: 13:34
+Classe Executiva: 30
+Classe Econômica: 10
+Primeira Classe: 10
+Valor Executiva: 345.0
+Valor Econômica: 1231.0
+Valor Primeira: 12313.0
+--------------------------------------------------
+--------------------------------------------------
+ID: 2
+Aeronave: BARBATANA
+Piloto: Erek
+Destino: SP
+Origem: MG
+Data: 24/02/2004
+Hora: 13:24
+Classe Executiva: 15
+Classe Econômica: 15
+Primeira Classe: 20
+Valor Executiva: 232.0
+Valor Econômica: 130.0
+Valor Primeira: 1232.0
+--------------------------------------------------
+--------------------------------------------------
+ID: 3
+Aeronave: BARBATANA2
+Piloto: Erek
+Destino: MG
+Origem: GO
+Data: 23/02/2024
+Hora: 23:35
+Classe Executiva: 15
+Classe Econômica: 30
+Primeira Classe: 5
+Valor Executiva: 23.0
+Valor Econômica: 12.0
+Valor Primeira: 50.0
+--------------------------------------------------
